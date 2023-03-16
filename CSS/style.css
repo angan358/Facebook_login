@@ -80,3 +80,27 @@ button{
     font-size: 12px;
     font-weight: 600;
 }
+
+.sub-link h3 a{
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+
+}
+.f-container{
+    width: 350px;
+    margin-left: 300px;
+    margin-top: 30vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f-container img{
+    width: 250px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600;
+    word-spacing: 3px;
+    
+}
